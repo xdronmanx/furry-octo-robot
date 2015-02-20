@@ -1,6 +1,3 @@
-echo # furry-octo-robot >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/xdronmanx/furry-octo-robot.git
-git push -u origin master
+Гоголев Андрей 
+1742
+Меня не должны отчислить из университета, потому что я способный
